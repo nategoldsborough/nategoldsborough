@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathen418&label=Profile%20views&color=0e75b6&style=flat" alt="nathen418" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathen418" alt="nathen418" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathen418&column=7" alt="nathen418" /></a> </p>
 
 - 🔭 I’m currently working on [Antares Bot](https://github.com/Antares-Network/AntaresBot)
 
