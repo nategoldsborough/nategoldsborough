@@ -16,6 +16,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nathen418](https://github.com/nathen418)
 
+- 💻 What's running in my homelab? [https://github.com/nathen418/homelab](https://github.com/nathen418/homelab)
+
 - 📫 How to reach me **nathen418@playantares.com**
 
 <h3 align="left">Connect with me:</h3>
