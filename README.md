@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
-<h3 align="center">Just trying to get through one day without DNS failing me</h3>
+<h3 align="center">I just want a slice of pie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathen418&label=Profile%20views&color=0e75b6&style=flat" alt="nathen418" /> </p>
 
