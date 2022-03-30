@@ -26,7 +26,7 @@
 <a href="https://twitter.com/nathen418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathen418" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10216713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10216713" height="30" width="40" /></a>
 <a href="https://instagram.com/nathen418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathen418" height="30" width="40" /></a>
-<a href="https://discord.gg/KKYw763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KKYw763" height="30" width="40" /></a>
+<a href="https://playantares.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KKYw763" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
