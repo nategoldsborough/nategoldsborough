@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Antares Bot](https://github.com/Antares-Network/AntaresBot)
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, VMware server managment**
+- 🌱 I’m currently learning **TypeScript, C++, VMware server managment**
 
 - 👯 I’m looking to collaborate on [Antares Prison](https://github.com/Antares-Network/AntaresPrison)
 
