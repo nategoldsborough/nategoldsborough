@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Antares Bot](https://github.com/Antares-Network/AntaresBot)
 
-- 🌱 I’m currently learning **TypeScript, PHP, ESXI, AD-DS, Docker/k3s**
+- 🌱 I’m currently learning **TypeScript, Traefik, Proxmox, AD-DS, Docker/k3s**
 
 - 👯 I’m looking to collaborate on [MultiESP](https://github.com/nathen418/MultiESP)
 
