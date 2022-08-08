@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathen418&column=7" alt="nathen418" /></a> </p>
 
 
-- 🔭 I’m currently working on [Antares Bot](https://github.com/Antares-Network/AntaresBot)
+- 🔭 I’m currently working on [CSSC-Bot](https://github.com/llisaeva/CSSC-Bot/tree/nate-goldsborough)
 
 - 🌱 I’m currently learning **TypeScript, Traefik, Proxmox, AD-DS, Docker/k3s**
 
