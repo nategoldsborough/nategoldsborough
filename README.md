@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
-<h3 align="center">I just want a slice of pie</h3>
+<h3 align="center">Information Science & Technology - UWM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathen418&label=Profile%20views&color=0e75b6&style=flat" alt="nathen418" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [FAQT](https://github.com/nathen418/FAQT)
 
-- 🌱 I’m currently learning **TypeScript, Traefik, Proxmox, AD-DS, Docker/k3s**
+- 🌱 I’m currently learning **TypeScript, Discord.js v14, Docker Swarm, MicroPython**
 
-- 👯 I’m looking to collaborate on [MultiESP](https://github.com/nathen418/MultiESP)
+- 👯 I’m looking to collaborate on [MultiESP](https://github.com/Antares-Network/CSSC-Bot)
 
 - 🤝 I’m looking for help with [Bungee Automatic Server Manager](https://github.com/Antares-Network/BASM)
 
