@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **TypeScript, Discord.js v14, Docker Swarm, MicroPython**
 
-- 👯 I’m looking to collaborate on [MultiESP](https://github.com/Antares-Network/CSSC-Bot)
+- 👯 I’m looking to collaborate on [CSSC-Bot](https://github.com/Antares-Network/CSSC-Bot)
 
-- 🤝 I’m looking for help with [Bungee Automatic Server Manager](https://github.com/Antares-Network/BASM)
+- 🤝 I’m looking for help with [Antares Bot](https://github.com/Antares-Network/AntaresBot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nathen418](https://github.com/nathen418)
 
