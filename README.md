@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathen418&column=7" alt="nathen418" /></a> </p>
 
 
-- 🔭 I’m currently working on [FAQT](https://github.com/nathen418/FAQT)
+- 🔭 I’m currently working on [INFOST440-final-project](https://github.com/nathen418/INFOST440-final-project)
 
 - 🌱 I’m currently learning **TypeScript, Discord.js v14, Docker Swarm, MicroPython**
 
